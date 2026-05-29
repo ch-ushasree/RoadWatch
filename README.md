@@ -2,7 +2,6 @@
 
 AI-powered chatbot that helps citizens monitor road quality, track public spending, and report issues to responsible authorities.
 
-Built for RGB Labs × IIT Madras Hackathon — Theme: AI in Road Safety
 
 ## Features
 - 💬 AI chatbot to query road conditions, budgets, and contractors
